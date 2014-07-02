@@ -35,6 +35,7 @@
     "bootstrap3-wysihtml5-bower": "~0.3.2"
   },
   "resolutions": {
-    "jquery": "~1.10.2"
+    "jquery": "~1.10.2",
+    "spin.js": "~2.0.1"
   }
 }
