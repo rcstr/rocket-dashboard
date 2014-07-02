@@ -14,7 +14,7 @@
 * [Messenger](http://github.hubspot.com/messenger/)
 * [jvectormap](http://jvectormap.com/)
 * [DynaTable](http://www.dynatable.com/)
-* [Morris.js](http://www.oesmith.co.uk/morris.js/)
+* [Morris.js](http://morrisjs.github.io/morris.js/)
 * [jQuery Slismscroll](http://rocha.la/jQuery-slimScroll) 
 * [jQuery Knob](https://github.com/aterrien/jQuery-Knob)
 * [jQuery Peity](http://benpickles.github.io/peity/)            
